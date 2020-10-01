@@ -9,7 +9,8 @@ create-react-app project-name
 OR
 
 ```
-git clone https://github.com/aakash-cr7/react-slack-clone
+https://github.com/Digambarbai/react-slack-clone.git
+
 ```
 
 ## Starting a project
